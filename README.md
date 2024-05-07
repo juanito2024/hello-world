@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-# This is a comment
+My first repository.
+I love basketball
